@@ -1,0 +1,9 @@
+# Number of terms = 8
+0	Arts
+1	Medicine
+2	Mathematics
+3	Science
+4	Engineering
+5	Business
+6	History
+7	Law

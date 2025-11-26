@@ -1,0 +1,25 @@
+# Number of terms = 24
+0	philosophy
+1	civil
+2	engineering
+3	physics
+4	calculus
+5	statistics
+6	painting
+7	ethics
+8	algebra
+9	chemistry
+10	mechanical
+11	economics
+12	corporate
+13	law
+14	world
+15	history
+16	artificial
+17	intelligence
+18	literature
+19	anatomy
+20	marketing
+21	biology
+22	data
+23	science
